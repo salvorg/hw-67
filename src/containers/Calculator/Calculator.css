@@ -1,0 +1,21 @@
+.Calculator {
+    text-align: center;
+}
+
+.Calculator .container,
+h1 {
+    width: 500px;
+    margin: auto;
+}
+
+.Calculator h1 {
+    font-size: 30px;
+    text-align: right;
+    height: auto;
+    margin: 0;
+    padding-top: 10px;
+}
+
+.Calculator button {
+    padding: 20px 0;
+}
